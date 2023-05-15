@@ -1,0 +1,11 @@
+
+API_ID =""
+API_HASH =""
+CHANNEL_USERNAME =""
+
+
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+
+TO =""
+FROM =""
