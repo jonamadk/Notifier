@@ -1,6 +1,6 @@
 # Notifier
 
-The notifier app for notifying the visa interviw appointment slots.
+The notifier app for notifying the visa interviw appointment slots message thread in the Telegram USVN Nepal Channel.
 
 
 ### How app works?
